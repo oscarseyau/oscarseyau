@@ -28,6 +28,8 @@ This website is a small space for me to document what I’m learning, what I’m
 ## experience 🧩
 
 ### Aviation-Related
+#### Greater Bay Airlines
+Currenting interning at HGB, assisting the entire ENG department.
 
 #### Cathay Pacific
 During my internship under Technical Services – eOperations & Avionics Project, I worked with operational aviation data and investigated over 8 million B747-8F ACARS data points using Airbus Skywise. This gave me exposure to how engineering, data, and process improvement can work together in a real airline environment.
